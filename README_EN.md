@@ -17,8 +17,9 @@ A business-oriented integrated testing tool web platform designed to address pai
 ### 2. AI Evaluation Framework
 
 For details, please visit the corresponding GitHub repositories:
-- [LLM Performance Evaluation Framework](https://github.com/HowardChenRV/LLM-Eval)
-- [LLM Functional Testing Framework](https://github.com/HowardChenRV/llm_engine_test)
+- [LLM Inference Evaluation](https://github.com/HowardChenRV/LLM-Eval)
+- [LLM Train Evaluation](https://github.com/HowardChenRV/LLM-Train-Eval)
+- [LLM Functional Testing](https://github.com/HowardChenRV/llm_engine_test)
 
 ### 3. AI Evaluation Data Platform
 

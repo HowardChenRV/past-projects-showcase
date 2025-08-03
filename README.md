@@ -17,8 +17,9 @@
 ### 2. AI评测框架
 
 详情请查看对应GitHub仓库：
-- [LLM性能评测框架](https://github.com/HowardChenRV/LLM-Eval)
-- [LLM功能测试框架](https://github.com/HowardChenRV/llm_engine_test)
+- [LLM推理评测](https://github.com/HowardChenRV/LLM-Eval)
+- [LLM训练评测](https://github.com/HowardChenRV/LLM-Train-Eval)
+- [LLM功能测试](https://github.com/HowardChenRV/llm_engine_test)
 
 ### 3. AI评测数据存储平台
 
