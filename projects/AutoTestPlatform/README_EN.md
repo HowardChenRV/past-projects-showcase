@@ -5,7 +5,7 @@
 This project aims to build an automated pipeline workflow to connect AI performance, functionality, and accuracy testing processes, and report test data to the AI data storage platform.
 
 Related references:
-- [AI Data Storage Platform Chinese Documentation](../AIEvaluationDataPlatform/README.md)
+- [AI数据存储平台中文文档](../AIEvaluationDataPlatform/README.md)
 - [AI Data Storage Platform English Documentation](../AIEvaluationDataPlatform/README_EN.md)
 
 The project is built using [Jenkins](https://github.com/jenkinsci/jenkins), adopting the Jenkins agent model to manage various testing Linux servers and Windows AIPC.

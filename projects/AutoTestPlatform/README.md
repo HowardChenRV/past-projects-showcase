@@ -6,7 +6,7 @@
 
 相关参考：
 - [AI数据存储平台中文文档](../AIEvaluationDataPlatform/README.md)
-- [AI数据存储平台英文文档](../AIEvaluationDataPlatform/README_EN.md)
+- [AI Data Storage Platform English Documentation](../AIEvaluationDataPlatform/README_EN.md)
 
 该项目使用[Jenkins](https://github.com/jenkinsci/jenkins)搭建，采用jenkins agent模式纳管各类测试Linux服务器、Windows AIPC。
 
