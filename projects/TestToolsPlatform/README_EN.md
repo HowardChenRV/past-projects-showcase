@@ -9,12 +9,12 @@ Test Tools Platform is a business-oriented integrated testing tool web platform 
 1. **Business Data Generation**: Batch data creation covering risk control, user profiling, membership, coins, advertising, and other functions
 2. **Data Query**: Media asset/musician query, music library search
 3. **Financial Reimbursement Processing**: Handling of test advance payment financial reimbursements
-4. **Test Platform Management Functions**: Account management, permission management, operation logs, data statistics, log positioning, etc.
+4. **Test Platform Management Functions**: Account management, permission management, operation logs, chart statistics, log positioning, etc.
 
 ## Technology Stack
 
-- **Backend Technologies**: Linux/Nginx/Redis/Mysql/Flask
-- **Frontend Technologies**: HTML/CSS/Bootstrap/jQuery
+- **Backend Technologies**: Linux/Nginx/Redis/Mysql/Python/Flask/Docker
+- **Frontend Technologies**: HTML/CSS/Bootstrap/JavaScript/jQuery
 
 ## Project Achievements
 
