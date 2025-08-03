@@ -1,0 +1,12 @@
+[submodule "projects/AIEvaluationFramework/LLM-Train-Eval"]
+	path = projects/AIEvaluationFramework/LLM-Train-Eval
+	url = https://github.com/HowardChenRV/LLM-Train-Eval
+	branch = main
+[submodule "projects/AIEvaluationFramework/LLM-Eval"]
+	path = projects/AIEvaluationFramework/LLM-Eval
+	url = https://github.com/HowardChenRV/LLM-Eval
+	branch = main
+[submodule "projects/AIEvaluationFramework/llm_engine_test"]
+	path = projects/AIEvaluationFramework/llm_engine_test
+	url = https://github.com/HowardChenRV/llm_engine_test
+	branch = main
